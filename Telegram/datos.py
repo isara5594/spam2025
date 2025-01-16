@@ -1,8 +1,8 @@
 # Datos de Configuración 
 
 configuracion = {
-    "usuario" : "@none", # Nombre de Usuario (Sólo se usa para guardar la sesión)
-    "api_id" : 11111111, # API_ID generado desde my.telegram.org 
-    "api_hash" : '4db5414664d8ff25568166cfc014a56c', # API_HASH generado desde my.telegram.org
-    "phone":'+5199999999' # Teléfono (Debe incluir el prefijo)
+    "usuario" : "@IsaraNavarro", # Nombre de Usuario (Sólo se usa para guardar la sesión)
+    "api_id" : 23977772, # API_ID generado desde my.telegram.org 
+    "api_hash" : '2e37a7e1e6f491319641d3ecd5fc1b5c', # API_HASH generado desde my.telegram.org
+    "phone":'+51906806168' # Teléfono (Debe incluir el prefijo)
 }
